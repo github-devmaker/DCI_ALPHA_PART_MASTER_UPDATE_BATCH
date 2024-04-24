@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatchALPHAPartMasterUpdate", "BatchALPHAPartMasterUpdate.csproj", "{1296E311-C7C9-46B1-B352-195B7FD5C610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatchBCSPartMaster", "..\BatchBCSPartMaster\BatchBCSPartMaster.csproj", "{8F538891-F45C-4DB6-9DB5-9CA69720F249}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1296E311-C7C9-46B1-B352-195B7FD5C610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1296E311-C7C9-46B1-B352-195B7FD5C610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1296E311-C7C9-46B1-B352-195B7FD5C610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1296E311-C7C9-46B1-B352-195B7FD5C610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F538891-F45C-4DB6-9DB5-9CA69720F249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F538891-F45C-4DB6-9DB5-9CA69720F249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F538891-F45C-4DB6-9DB5-9CA69720F249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F538891-F45C-4DB6-9DB5-9CA69720F249}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9A1A41C-9A8B-4D8F-B518-794974984DBD}
+	EndGlobalSection
+EndGlobal
